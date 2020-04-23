@@ -1,6 +1,4 @@
-# Name Gus Kalivas
-# Program P9
-# Email wkalivas@wisc.edu
+# Name Gus Kalivas\
 
 
 import tensorflow as tf
